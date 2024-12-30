@@ -12,7 +12,14 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>541ae485-9e6d-4f9d-a86e-b8a07e5a8801</testSuiteGuid>
    <testCaseLink>
-      <guid>a729f346-2b92-46c5-80f7-ee3ed5f2f2f7</guid>
+      <guid>6d95a04a-7ca9-4cbe-b163-560028981708</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/New Test Case-001</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a72dc9d2-260f-4fc7-906a-b08a22f25e77</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/New Test Case-001</testCaseId>
